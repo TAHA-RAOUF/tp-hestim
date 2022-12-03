@@ -1,0 +1,22 @@
+#elment1{  text-align: center; width: 100;padding: 19px;
+    box-shadow: 0px 10px 10px 2px rgba(0, 0, 0, 0.5)inset,0px 10px 10px 2px rgba(255, 255, 255, 0.5) ;
+    background-color: green;
+width: 50;height: 50;box-shadow: 0px 5px 5px 2px rgba(0, 0, 0, 0.5);
+font-family: Georgia, Times, serif;font-size :xx-large ;font-weight :bold ;}
+
+
+#element2{ text-align: center; font-family: 'Times New Roman',Times, serif; font-size: 18px  ; 
+    font-weight :bold ; color : black; text-decoration:none; 
+position:absolute; width:96.5%; padding: 15px;  top: 88px; left: 0px; right: 0px; border-radius:0px 0px 10px 10px;word-spacing: 80px;
+ background-color:red; box-shadow:0px 10px 10px 2px rgba(0, 0, 0, 0.5)inset, 0px 10px 10px 2px rgba(255, 255, 255, 0.5) ;}
+
+ 
+.element3{margin-top:60px;text-align:left;padding:2px;width:100%;height:40%;font-size:14px;line-height:1.5em;}
+
+
+#element4{position:absolute;left:17%;top:32%;width:60%;height:70%;position:absolute;left:17%;top:32%;width:60%;height:70%;background-color: Pink;border-radius:10px;padding:10px;}
+
+#element5{top:32%;position:absolute;text-align:left;padding:2px;width:20%;height:40%;left:80%;font-size:14px;line-height:1.5em;background-color:Grey;border-radius:10px;}
+a{text-decoration:none; color : black; font-weight:bold;}
+span{background-color: yellow;}
+li{color: blue;}
